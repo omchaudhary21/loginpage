@@ -1,0 +1,19 @@
+1.navbar (completed)
+2.login paxi dashboard add users logout(completed)
+3.logout garepaxi dash board ko sab hatnu parxa (completed)
+4. signup gareko mail xa vane arko choti signup garna napaune tara other email halerw signup garna paune(completed)
+5.Euta table banaune ani search ko list halne 
+Today work
+signup(validation,if email already signup xa vane next time already exist vanne)ani signup dashboard ma jane 
+login(signup vako data bata matra login hune)ani login ko dashboard ma jane,khali xodna nahune 
+2. second table for information or unser info or anything like that
+Yo table maaa, login vayea pachi record add garne banaune
+yesmaa, First name, Last name, email, address, gender, Address, Blood Group, Qulification add garne
+
+First name, last name, email, gender ra blood group add garna miss nagarnu hai, aru field herare compulsory banaudaa huncha, or sabai lai compuslory field banaudaa apne huncha hai ta
+
+yo table maa chahe login vayea pachi, record add garna milne banaune,
+
+suru maa sign up huda gareko record, registation table or something like that table maa add huncha
+:
+pachi login vayera, Add user info or Add User Details, yestai khehi button banayera yo table maa add garne banaune hai ta
